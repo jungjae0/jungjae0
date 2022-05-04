@@ -3,7 +3,7 @@
   <div align="left">
     Hi👋, I'm Jaeyoung - an student at the Jeonbuk National University.<br>
     🔍 About me 🔍 https://jungjae0.github.io/profile/<br>
-    📓 Velog 📓 https://velog.io/@jungjae0<br>
+    📓 Blog 📓 https://velog.io/@jungjae0<br>
 
 ***
 
