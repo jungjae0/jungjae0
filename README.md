@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👩‍🎓 Jae Young 👩‍🎓</h2>
-  <div align="left">
+  <div align="center">
     Hi👋, I'm Jaeyoung - an student at the Jeonbuk National University.<br>
     🔍 About me 🔍 https://jungjae0.github.io/profile/<br>
     📓 Blog 📓 https://velog.io/@jungjae0<br>
